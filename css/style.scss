@@ -1,0 +1,17 @@
+//! normalize.css
+@import url("normalize.min.css");
+
+//! Змінні
+@import "parts/vars";
+
+//! Mixins
+@import "parts/mixins";
+
+//! Кнопки
+@import "parts/buttons";
+
+//! Базові стилі
+@import "parts/basic";
+
+//! Стилі шапки
+@import "parts/header";
